@@ -32,6 +32,9 @@ Brief about the project, its motivations, and objectives.
 
 
 ## Challenges
+- **Recommendation Engine**: With numerous algorithms at disposal, ensuring recommendations were both accurate and relevant was challenging. Eventually, a hybrid model combining collaborative and content-based filtering was adopted.
+  
+- **Scalability**: Ensuring the platform's scalability, especially with a large influx of products and users. Cloud-based solutions and database query optimizations were vital.
 
 - One significant challenge was deciding on the best approach for the recommendation engine. With multiple algorithms available, I wanted to ensure that the recommendations were accurate and relevant. After researching and testing, I settled on a hybrid model combining collaborative and content-based filtering. This provided a balance between user behavior and product attributes, ensuring relevancy in recommendations.
 
@@ -40,21 +43,17 @@ Brief about the project, its motivations, and objectives.
 ## Feedback & Iterations & Testimonials:
 
  
-- The platform is currently in its beta stage, with a few pilot vendors onboarded. Initial feedback has been overwhelmingly positive, and I'm continuously iterating based on user feedback. Future work involves integrating a more robust analytics dashboard for vendors and exploring integration with AR for a virtual "try-before-you-buy" experience.
+- Currently in beta, with a few vendors onboarded. Initial feedback is positive, with continuous iterations based on feedback.
+- **Future Considerations**: A robust analytics dashboard for vendors and AR integration for a virtual "try-before-you-buy" experience.
+
 
 
 ## Tools Used
-
-- Figma / Adobe XD 
-- Frontend: React.js with Redux for state management. Leveraged Material-UI for component styling.
-
-- Backend: Node.js with Express.js for creating a scalable and efficient server. Integrated GraphQL for flexible data querying.
-
-- Database: MongoDB for its flexibility in storing product data and user profiles.
-
-- Design: Figma for high-fidelity designs and prototyping.
-
-- Deployment: Docker for containerization, and AWS for cloud-based deployment and scalability.
+- **Design**: Figma for designs and prototyping.
+- **Frontend**: React.js with Redux. Material-UI for styling.
+- **Backend**: Node.js with Express.js and GraphQL.
+- **Database**: MongoDB.
+- **Deployment**: Docker and AWS.
 
 ## Screenshots
 
