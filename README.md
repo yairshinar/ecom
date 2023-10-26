@@ -18,7 +18,7 @@ A comprehensive design and prototype for a modern e-commerce platform. This repo
 - [Tools Used](#tools-used)
 - [Screenshots](#screenshots)
 - [Interactive Prototype](#interactive-prototype)
-- [Features-Breakdown](#E-commerce-Platform:-Features-Breakdown)
+- [Features-Breakdown](#e-commerce-platform-features-breakdown)
 
 ## Introduction
 
